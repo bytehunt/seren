@@ -18,7 +18,7 @@ spinoff = { version = "0.8.0", features = ["dots", "arc", "line"] }
 clap = { version = "4.4.11", features = ["string", "derive"] }
 serde = { version = "1.0.197", features = ["derive"] }
 tokio = { version = "1.35.1", features = ["full"] }
-async-recursion = "1.0.5"
+async-recursion = "1.1.1"
 anyhow = "1.0.80"
 colored = "2.1.0"
 toml = "0.8.8"
