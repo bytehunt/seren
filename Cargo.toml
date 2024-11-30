@@ -21,7 +21,7 @@ tokio = { version = "1.35.1", features = ["full"] }
 async-recursion = "1.0.5"
 anyhow = "1.0.80"
 colored = "2.1.0"
-toml = "0.8.8"
+toml = "0.8.13"
 columns = "0.1.0"
 dirs = "5.0.1"
 sha2 = "0.10.8"
